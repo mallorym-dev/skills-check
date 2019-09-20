@@ -1,6 +1,6 @@
 #company {
     height: 45px;
-    width: 100vw;
+    width: 90vw;
     background-color: grey;
     color: white;
     font-size: 20px;
@@ -10,17 +10,19 @@
     align-items: flex-end;
     color: white;
     font-size: 10px;
+    float: right;
+    display: flex;
 }
 
 .black {
     height: 300px;
-    width: 100vw;
+    width: 90vw;
     background-color: black;
 }
 
 .yellow-text {
     height: 30px;
-    width: 100vw;
+    width: 90vw;
     color: yellow;
     display: flex;
     justify-content: center;
@@ -30,7 +32,7 @@
 
 .blue {
     height: 250px;
-    width: 100vw;
+    width: 90vw;
     background-color: white;
     display: flex;
     justify-content: space-around;
@@ -58,7 +60,7 @@
 
 .rectangles {
     height:250px;
-    width: 100vw;
+    width: 90vw;
     background-color: white;
     display: flex;
     align-items: center;
@@ -79,7 +81,7 @@
 
 .elephant {
     height: 250px;
-    width: 100vw;
+    width: 90vw;
     background-color: white;
     color: black;
     font-size: 15px;
@@ -95,6 +97,7 @@
 
 .footer {
     height: 80px;
-    width: 100vw;
+    width: 90vw;
     background-color: darkslategray;
 }
+
