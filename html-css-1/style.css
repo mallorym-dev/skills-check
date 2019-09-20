@@ -1,0 +1,100 @@
+#company {
+    height: 45px;
+    width: 100vw;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+.links {
+    display: inline-block;
+    align-items: flex-end;
+    color: white;
+    font-size: 10px;
+}
+
+.black {
+    height: 300px;
+    width: 100vw;
+    background-color: black;
+}
+
+.yellow-text {
+    height: 30px;
+    width: 100vw;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.blue {
+    height: 250px;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.square1 {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+
+.square2 {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+
+.square3 {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+
+.rectangles {
+    height:250px;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+}
+.rec1 {
+    height: 150px;
+    width: 300px;
+    background-color: lightsalmon;
+}
+
+.rec2 {
+    height: 150px;
+    width: 300px;
+    background-color: lightsalmon;
+}
+
+.elephant {
+    height: 250px;
+    width: 100vw;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+}
+
+.pic {
+    height: 140px;
+    width: 200px;
+    float: right;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+.footer {
+    height: 80px;
+    width: 100vw;
+    background-color: darkslategray;
+}
