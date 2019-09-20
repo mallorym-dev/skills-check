@@ -16,7 +16,7 @@ let me = {
     superPowers: ['shapeshifting', 'teleportation', 'martial arts'],
     superPowerXP: function() {
         return Math.floor(Math.random() * 100) + 1
-    }
+    },
     profileImage: function() {
         return `https://randomuser.me/api/portraits/med/lego/${Math.floor(Math.random() * 10) + 1 }.jpg`
     }
