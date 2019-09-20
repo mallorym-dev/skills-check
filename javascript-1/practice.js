@@ -186,7 +186,6 @@ let enemies = people.filter(function(el, i, arr) {
 		return people;
 	}
 })
-console.log(enemies)
 
 //////////////////PROBLEM 20////////////////////
 
@@ -194,7 +193,8 @@ console.log(enemies)
 
 let totallyAwesome = people.reduce(function(total, el, i, arr) {
 	return total += el.awesomeLevel;
-})
+});
+
 
 
 
